@@ -12,3 +12,66 @@ En un alineamiento, primeramente se definen átomos <iguales> o <equivalentes>, 
   
   
   
+  
+  NMR structrures. (resonancia magnética nuclear) se usa solo para peptidos pequeños.
+  
+  
+  
+  A temperatura ambiente un electron se mueve aprox. 3 angstrom de distancia como diametro, es decir, se puede mover 1,5 hacia un lado y 1,5 hacia otro lado.
+  
+  
+  
+  
+  LAs proteínas se rotan en un alineamiento hasta que el valor de RMSD no baje más, es decir, llegue al punto óptimo.
+  
+  
+  
+  
+  Para elejir los residuos o atomos equivalentes en un alineamiento estructural, se DEBE hacer antes un alineamiento de secuencia, por lo que el alineamiento estructural depende del alineamiento de secuencia.
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  l
